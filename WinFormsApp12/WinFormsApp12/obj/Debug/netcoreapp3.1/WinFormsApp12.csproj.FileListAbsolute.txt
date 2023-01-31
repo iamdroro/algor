@@ -1,0 +1,16 @@
+\\192.168.200.13\pr305a01\Пр-22\Cэпселев Тимофей ПР-22\WinFormsApp12\WinFormsApp12\bin\Debug\netcoreapp3.1\WinFormsApp12.exe
+\\192.168.200.13\pr305a01\Пр-22\Cэпселев Тимофей ПР-22\WinFormsApp12\WinFormsApp12\bin\Debug\netcoreapp3.1\WinFormsApp12.deps.json
+\\192.168.200.13\pr305a01\Пр-22\Cэпселев Тимофей ПР-22\WinFormsApp12\WinFormsApp12\bin\Debug\netcoreapp3.1\WinFormsApp12.runtimeconfig.json
+\\192.168.200.13\pr305a01\Пр-22\Cэпселев Тимофей ПР-22\WinFormsApp12\WinFormsApp12\bin\Debug\netcoreapp3.1\WinFormsApp12.runtimeconfig.dev.json
+\\192.168.200.13\pr305a01\Пр-22\Cэпселев Тимофей ПР-22\WinFormsApp12\WinFormsApp12\bin\Debug\netcoreapp3.1\WinFormsApp12.dll
+\\192.168.200.13\pr305a01\Пр-22\Cэпселев Тимофей ПР-22\WinFormsApp12\WinFormsApp12\bin\Debug\netcoreapp3.1\WinFormsApp12.pdb
+\\192.168.200.13\pr305a01\Пр-22\Cэпселев Тимофей ПР-22\WinFormsApp12\WinFormsApp12\obj\Debug\netcoreapp3.1\WinFormsApp12.csproj.AssemblyReference.cache
+\\192.168.200.13\pr305a01\Пр-22\Cэпселев Тимофей ПР-22\WinFormsApp12\WinFormsApp12\obj\Debug\netcoreapp3.1\WinFormsApp12.Form1.resources
+\\192.168.200.13\pr305a01\Пр-22\Cэпселев Тимофей ПР-22\WinFormsApp12\WinFormsApp12\obj\Debug\netcoreapp3.1\WinFormsApp12.csproj.GenerateResource.cache
+\\192.168.200.13\pr305a01\Пр-22\Cэпселев Тимофей ПР-22\WinFormsApp12\WinFormsApp12\obj\Debug\netcoreapp3.1\WinFormsApp12.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.200.13\pr305a01\Пр-22\Cэпселев Тимофей ПР-22\WinFormsApp12\WinFormsApp12\obj\Debug\netcoreapp3.1\WinFormsApp12.AssemblyInfoInputs.cache
+\\192.168.200.13\pr305a01\Пр-22\Cэпселев Тимофей ПР-22\WinFormsApp12\WinFormsApp12\obj\Debug\netcoreapp3.1\WinFormsApp12.AssemblyInfo.cs
+\\192.168.200.13\pr305a01\Пр-22\Cэпселев Тимофей ПР-22\WinFormsApp12\WinFormsApp12\obj\Debug\netcoreapp3.1\WinFormsApp12.csproj.CoreCompileInputs.cache
+\\192.168.200.13\pr305a01\Пр-22\Cэпселев Тимофей ПР-22\WinFormsApp12\WinFormsApp12\obj\Debug\netcoreapp3.1\WinFormsApp12.dll
+\\192.168.200.13\pr305a01\Пр-22\Cэпселев Тимофей ПР-22\WinFormsApp12\WinFormsApp12\obj\Debug\netcoreapp3.1\WinFormsApp12.pdb
+\\192.168.200.13\pr305a01\Пр-22\Cэпселев Тимофей ПР-22\WinFormsApp12\WinFormsApp12\obj\Debug\netcoreapp3.1\WinFormsApp12.genruntimeconfig.cache
